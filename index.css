@@ -54,3 +54,15 @@ div .head h3{
 #design_txt, #development_txt, #product_management_txt{
   display: none;
 }
+.row .col-md-3{
+   position: relative;
+   
+}
+
+.row .col-md-3 img{
+ position: relative;
+  padding-top: 20px;
+  height: 97%;
+  width: 97%;
+  
+}
