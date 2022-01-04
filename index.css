@@ -28,3 +28,12 @@
 .about_us{
   padding: 40px 0px 40px;
 }
+.services{
+  background-image: url("images/s_image.jpg");
+  content: "";
+  background-position: center;
+  background-size: cover;
+  text-align: center;
+  color: white;
+  padding: 100px 0px 100px;
+}
