@@ -45,3 +45,12 @@ button{
   border: none;
   outline: none;
 }
+div .head h3{
+  margin-top: 40px;
+}
+.col-md-4{
+  margin: 50px 0px 0px;
+}
+#design_txt, #development_txt, #product_management_txt{
+  display: none;
+}
