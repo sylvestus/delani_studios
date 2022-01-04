@@ -10,7 +10,7 @@ This site is hosted in gh-pages on sylvestus.github.io/delani_studios/
 ## Known Bugs
 This website has no known bugs though updates are always being made as per user feedback to maximize on productivity
 ## Technologies Used
-This site only uses html for stucture, css for tyling and js for interactivity 
+This site only uses html for stucture, css and bootsrap for styling and js for interactivity 
 ## Support and contact details
 Incase of any issues contact me on:
 sylvestus.sigei@student.moringa.com
