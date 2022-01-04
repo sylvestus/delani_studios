@@ -7,4 +7,9 @@ $(document).ready(function() {
     
     $("#development_txt").toggle();
   });
+  $("#product").click(function() {
+    
+    $("#product_management_txt").toggle();
+  });
+
 });
