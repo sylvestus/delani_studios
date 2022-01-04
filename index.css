@@ -9,3 +9,11 @@
   height: auto;
   position: relative;
 }
+.nav .delani_welcome{
+  position: relative;
+  
+  text-align: center;
+  color: white;
+  margin: 240px;
+  margin-left: 26%;
+}
