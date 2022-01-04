@@ -87,3 +87,11 @@ top: 22px;
 color: white;
 font-weight: 900;
 }
+.form{
+  background-image: url("images/c_image.jpg");
+  content: "";
+  background-size: cover;
+  padding: 50px;
+ padding-bottom: 120px;
+ 
+}
