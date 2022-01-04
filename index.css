@@ -115,3 +115,7 @@ font-weight: 900;
 .footer{
   justify-content: center;
 }
+.footer img{
+height: 80%;
+width: 70%;
+}
