@@ -112,3 +112,6 @@ font-weight: 900;
 .text_box{
   height: 160px;
 }
+.footer{
+  justify-content: center;
+}
