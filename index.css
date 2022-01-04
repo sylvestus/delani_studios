@@ -1,0 +1,11 @@
+
+.nav{
+  background-image: url('images/h_img.jpg');
+  content: "";
+  background-position: center;
+  background-size: cover;
+  margin: 0px;
+  width: 100%;
+  height: auto;
+  position: relative;
+}
