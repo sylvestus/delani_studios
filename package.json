@@ -1,0 +1,29 @@
+{
+  "name": "delani_studios",
+  "version": "1.0.0",
+  "description": "This is a website to advertise delani studios and showcase their services and more details about them ## Setup/Installation Requirements This site is hosted in gh-pages on sylvestus.github.io/delani_studios/",
+  "main": "index.js",
+  "scripts": {
+    "serve": "node app",
+    "dev": "nodemon app"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sylvestus/delani_studios.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sylvestus/delani_studios/issues"
+  },
+  "homepage": "https://github.com/sylvestus/delani_studios#readme",
+  "dependencies": {
+    "body-parse": "^0.1.0",
+    "express": "^4.17.2",
+    "request": "^2.88.2"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.15"
+  }
+}
