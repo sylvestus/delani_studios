@@ -1,0 +1,137 @@
+
+.nav{
+  background-image: url('images/h_img.jpg');
+  content: "";
+  background-position: center;
+  background-size: cover;
+  margin: 0px;
+  width: 100%;
+  height: auto;
+  position: relative;
+}
+.nav .delani_welcome{
+  position: relative;
+  
+  text-align: center;
+  color: white;
+  margin: 240px;
+  margin-left: 26%;
+}
+.nav .mouse{
+  position: absolute;
+   top: 480px;
+   left: 48%;
+  display: block;
+ 
+
+}
+.about_us{
+  padding: 40px 0px 40px;
+}
+.services{
+  background-image: url("images/s_image.jpg");
+  content: "";
+  background-position: center;
+  background-size: cover;
+  text-align: center;
+  color: white;
+  padding: 100px 0px 100px;
+}
+.row{
+ text-align: center;
+}
+button{
+  background-color: transparent;
+  border: none;
+  outline: none;
+}
+div .head h3{
+  margin-top: 40px;
+}
+.col-md-4{
+  margin: 50px 0px 0px;
+}
+#design_txt, #development_txt, #product_management_txt{
+  display: none;
+}
+.row .col-md-3{
+   position: relative;
+   
+}
+
+.row .col-md-3 img{
+ position: relative;
+  padding-top: 20px;
+  height: 97%;
+  width: 97%;
+  
+}
+
+
+.row .col-md-3 .wonger{
+  background: rgba(0, 0, 0, 0.6);
+  position: absolute;
+  height: 90%;
+  width: 86%;
+  
+  right: 20px;
+  top: 18px;
+}
+.row .col-md-3 .wonger .wonger_txt{
+  position: absolute;
+  background: transparent;
+border: 2px solid white;
+padding: 0px 80px 80px 0px;
+right: 16px;
+top: 22px;
+color: white;
+font-weight: 900;
+}
+.form{
+  background-image: url("images/c_image.jpg");
+  content: "";
+  background-size: cover;
+  padding: 50px;
+ padding-bottom: 120px;
+ 
+}
+.form h3{
+  color: white;
+  text-align: center;
+ 
+}
+.form-control{
+  background-color: transparent;
+  color: white;
+  border-radius: 0px;
+  padding-top: 0px;
+}
+.this_row{
+  padding-bottom: 20px;
+}
+.text_box{
+  height: 160px;
+}
+.footer{
+  justify-content: center;
+}
+.footer img{
+height: 80%;
+width: 70%;
+}
+.footerTxt{
+text-align: center;
+font-size: small;
+}
+.wonger_hov1, .wonger_hov2, .wonger_hov3, .wonger_hov4, .wonger_hov5, .wonger_hov6, .wonger_hov7{
+  background: transparent;
+  display: none;
+ 
+
+}
+.wonger_hidden{
+  display: none;
+}
+#cta{
+  background-color: transparent;
+}
